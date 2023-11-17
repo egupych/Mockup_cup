@@ -1,5 +1,13 @@
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .cup {
     top: 50%;
     left: 50%;
-    width: 80vw;
+    width: 100vw;
 }
+
+
